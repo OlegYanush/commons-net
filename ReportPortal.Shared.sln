@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2010
+VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReportPortal.Shared", "ReportPortal.Shared\ReportPortal.Shared.csproj", "{17E8A09C-4BC6-4822-8C0C-5F3E6912E77F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportPortal.Shared.Tests", "ReportPortal.Shared.Tests\ReportPortal.Shared.Tests.csproj", "{B4C64579-9831-4FA2-84B8-E82407FD7A78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReportPortal.Shared.Tests", "ReportPortal.Shared.Tests\ReportPortal.Shared.Tests.csproj", "{B4C64579-9831-4FA2-84B8-E82407FD7A78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

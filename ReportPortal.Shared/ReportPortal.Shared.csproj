@@ -1,15 +1,17 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0;net45;</TargetFrameworks>
+    <TargetFrameworks>net45;netcoreapp2.0;</TargetFrameworks>
     <Authors>reportportal</Authors>
     <Company>Report Portal</Company>
-    <Version>2.0.0-beta3</Version>
+    <Version>2.1.0-beta1</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ReportPortal.Client" Version="2.0.0-beta3" />
+    <PackageReference Include="ReportPortal.Client" Version="2.0.*" />
   </ItemGroup>
 
 </Project>
